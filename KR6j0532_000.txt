@@ -1,0 +1,9 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 舍頭諫太子二十八宿經
+#+DATE: 2015-08-30 20:34:18.714254
+#+PROPERTY: JUAN 0
+#+PROPERTY: ID KR6j0532
+#+PROPERTY: SOURCE 高麗藏 東國大學校影印本
+#+PROPERTY: BASEEDITION T
+#+PROPERTY: WITNESS TKD
+諌
